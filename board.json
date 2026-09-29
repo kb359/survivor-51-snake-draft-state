@@ -1,1 +1,1 @@
-{"phase": "setup", "players": [], "picks": [], "out": [], "rev": 0}
+{"phase":"setup","players":[{"id":"test1234","name":"Test"}],"picks":[],"out":[],"rev":1,"nonce":"abc"}
